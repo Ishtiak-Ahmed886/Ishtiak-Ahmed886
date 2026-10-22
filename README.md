@@ -1,30 +1,38 @@
-<h1 align="center">Hi 👋, I'm Ishtiak Ahmed</h1>
-<h3 align="center">Full-Stack Web Developer | Python, Django, React & SQL</h3>
+<h1 align="center">Ishtiak Ahmed</h1>
+<h3 align="center">Full-Stack Web Developer &amp; Final Year CSE Student at Daffodil International University</h3>
 
 <p align="center">
   <a href="https://portfolio-kappa-nine-8m8ao4h0hz.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-Live_Website-2ea44f?style=for-the-badge" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/🌐_Ishtiak_Ahmed-Official_Portfolio-2ea44f?style=for-the-badge" alt="Ishtiak Ahmed Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/moon-ishtiak-b98745304" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Ishtiak_Ahmed-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Ishtiak Ahmed LinkedIn" />
   </a>
   <a href="mailto:moonishtiak03@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-Get_in_Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-Get_in_Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Ishtiak Ahmed" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ishtiak-ahmed886&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=ishtiak-ahmed886&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Ishtiak Ahmed GitHub Profile views" />
 </p>
 
 ---
 
-### 🚀 About Me
-- 🎓 **Final Year CSE Student** at Daffodil International University (DIU).
-- 🏆 **By Ostad Vetted Developer** (Full-Stack Web Development with Python, Django & React).
-- 💼 Built **15+ real-world web applications and scalable backends**.
-- 🌐 **Live Portfolio:** [portfolio-kappa-nine-8m8ao4h0hz.vercel.app](https://portfolio-kappa-nine-8m8ao4h0hz.vercel.app/)
+### 👨‍💻 About Ishtiak Ahmed
+Welcome to the official GitHub profile of **Ishtiak Ahmed** (also known as Moon Ishtiak / Ishtiak-Ahmed886). 
+- 🎓 **Education:** Final Year B.Sc. in Computer Science & Engineering (CSE) student at **Daffodil International University (DIU)**, Dhaka, Bangladesh.
+- 🏆 **Certification:** **Ostad Vetted Developer** (Full-Stack Web Development with Python, Django &amp; React).
+- 💼 **Experience & Projects:** Architected and deployed **15+ real-world web applications**, scalable REST APIs, and database-driven systems.
+- 🌐 **Official Website / Portfolio:** [portfolio-kappa-nine-8m8ao4h0hz.vercel.app](https://portfolio-kappa-nine-8m8ao4h0hz.vercel.app/)
 - 🔗 **LinkedIn:** [linkedin.com/in/moon-ishtiak-b98745304](https://www.linkedin.com/in/moon-ishtiak-b98745304)
+
+---
+
+### 🚀 Featured Repositories by Ishtiak Ahmed
+* **[TrueDeed](https://github.com/Ishtiak-Ahmed886/TrueDeed):** AI-Powered Land Record Digitization, Fraud Prevention & Instant Verification Platform (DIU LandTech Hackathon LA-72).
+* **[SmartClinicSystem](https://github.com/Ishtiak-Ahmed886/SmartClinicSystem):** Web-based online appointment and queue management system for private clinics and diagnostic centers.
+* **[portfolio](https://github.com/Ishtiak-Ahmed886/portfolio):** Source code of Ishtiak Ahmed's responsive developer portfolio.
 
 ---
 
@@ -46,8 +54,8 @@
 
 ### 📊 GitHub Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ishtiak-ahmed886&show_icons=true&theme=tokyonight" alt="Ishtiak's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ishtiak-ahmed886&show_icons=true&theme=tokyonight" alt="Ishtiak Ahmed GitHub stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ishtiak-ahmed886&show_icons=true&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ishtiak-ahmed886&show_icons=true&layout=compact&theme=tokyonight" alt="Ishtiak Ahmed Top Languages" />
 </p>
